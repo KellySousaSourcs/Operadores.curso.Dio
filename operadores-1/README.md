@@ -1,11 +1,32 @@
-## Assuntos
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nº</th>
+      <th>Introdução a Operadores</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>01</td>
+      <td>Operadores1</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Operadores 2</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Operadores 3</td>  
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Operadores 4</td>    
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>Operadores 5</td>
+    </tr>
+  </tbody>
+</table>
 
-Operadores aritméticos
-Operadores unários
-Operadores relacionais
-Operadores lógicos
-Operador ternário
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
